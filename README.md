@@ -1,4 +1,4 @@
-🏦 #Predicting Bank Customer Churn Using MySQL, Python, and Machine Learning
+🏦 Predicting Bank Customer Churn Using MySQL, Python, and Machine Learning
 
 📌 Project Overview
 Customer churn is a major challenge in the banking sector, directly impacting revenue and long-term profitability. Retaining existing customers is significantly more cost-effective than acquiring new ones, making early churn prediction a critical business priority.
